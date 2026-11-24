@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, responsive Smart To-Do List and task management dashboard built with React, Vite, Tailwind CSS, and LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
